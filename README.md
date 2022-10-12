@@ -4,4 +4,4 @@ Data analysis project conducted in SQL for Career Foundry Data Analytics Program
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. It is now looking to diversify and launch an online video rental service in order to stay competitive.
 The objective of the project was to answer business questions in order to drive the launch strategy of a new online rental service.
 ## Data
-*add something here to explain the data*
+A relational data set made up of 17 tables contatining data on Rockbuster's film inventory, customer, and payments, among other things. The data set was uploaded to the PostgreSQL database for analysis.
